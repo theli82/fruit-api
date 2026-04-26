@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Apple",
+    "description": "Sweet and crunchy fruit",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg"
+  },
+  {
+    "name": "Banana",
+    "description": "Soft and rich in potassium",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg"
+  },
+  {
+    "name": "Orange",
+    "description": "Citrus fruit full of vitamin C",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg"
+  },
+  {
+    "name": "Strawberry",
+    "description": "Juicy red berry with seeds on the outside",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/PerfectStrawberry.jpg"
+  },
+  {
+    "name": "Mango",
+    "description": "Tropical fruit with sweet yellow flesh",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hapus_Mango.jpg"
+  },
+  {
+    "name": "Pineapple",
+    "description": "Tropical fruit with spiky skin and sweet core",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Pineapple_and_cross_section.jpg"
+  },
+  {
+    "name": "Grapes",
+    "description": "Small juicy fruits often used for wine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Table_grapes_on_white.jpg"
+  },
+  {
+    "name": "Watermelon",
+    "description": "Large fruit with green rind and red flesh",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Watermelon_cross_BNC.jpg"
+  },
+  {
+    "name": "Cherry",
+    "description": "Small red fruit with a pit",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Cherry_Stella444.jpg"
+  },
+  {
+    "name": "Peach",
+    "description": "Soft fruit with fuzzy skin",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Nectarine_and_cross_section02.jpg"
+  },
+  {
+    "name": "Pear",
+    "description": "Sweet fruit with a grainy texture",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Pears.jpg"
+  },
+  {
+    "name": "Kiwi",
+    "description": "Brown fuzzy fruit with green interior",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kiwi_aka.jpg"
+  },
+  {
+    "name": "Blueberry",
+    "description": "Small blue fruit rich in antioxidants",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Blueberries.jpg"
+  },
+  {
+    "name": "Raspberry",
+    "description": "Soft red berry made of small drupelets",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Raspberries05.jpg"
+  },
+  {
+    "name": "Blackberry",
+    "description": "Dark berry similar to raspberry",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Blackberries.jpg"
+  },
+  {
+    "name": "Papaya",
+    "description": "Tropical fruit with orange flesh and black seeds",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Papaya_cross_section_BNC.jpg"
+  },
+  {
+    "name": "Guava",
+    "description": "Tropical fruit with sweet aromatic flavor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Guava_ID.jpg"
+  },
+  {
+    "name": "Dragon Fruit",
+    "description": "Exotic fruit with vibrant pink skin",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Pitaya_cross_section_ed2.jpg"
+  },
+  {
+    "name": "Lemon",
+    "description": "Sour citrus fruit used in cooking",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Lemon.jpg"
+  },
+  {
+    "name": "Lime",
+    "description": "Small green citrus fruit",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Lime-Whole-Split.jpg"
+  },
+  {
+    "name": "Apricot",
+    "description": "Small orange fruit similar to peach",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Apricot_and_cross_section.jpg"
+  },
+  {
+    "name": "Plum",
+    "description": "Juicy fruit with smooth skin",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Plums.jpg"
+  },
+  {
+    "name": "Fig",
+    "description": "Soft fruit with many tiny seeds",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Figs.jpg"
+  },
+  {
+    "name": "Pomegranate",
+    "description": "Fruit with many juicy seeds inside",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Pomegranate.jpg"
+  },
+  {
+    "name": "Coconut",
+    "description": "Hard shell fruit with white flesh inside",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Coconuts.jpg"
+  },
+  {
+    "name": "Passion Fruit",
+    "description": "Tropical fruit with tart flavor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Passion_fruit.jpg"
+  },
+  {
+    "name": "Lychee",
+    "description": "Small tropical fruit with rough skin",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Lychee.jpg"
+  },
+  {
+    "name": "Durian",
+    "description": "Strong-smelling tropical fruit",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Durian.jpg"
+  },
+  {
+    "name": "Jackfruit",
+    "description": "Large tropical fruit with fibrous flesh",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Jackfruit_hanging.JPG"
+  },
+  {
+    "name": "Tomato",
+    "description": "Botanically a fruit, commonly used as a vegetable",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg"
+  },
+  {
+    "name": "Cucumber",
+    "description": "A refreshing fruit often treated as a vegetable",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Cucumis_sativus.jpg"
+  }
+]
